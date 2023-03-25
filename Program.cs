@@ -23,5 +23,3 @@ Console.Write("----- Falando em Baleies -----\n\n");
 
 Console.WriteLine($"{dory}\n\n");
         Console.ResetColor();
-
-       
